@@ -228,11 +228,11 @@ module.exports = function (eleventyConfig) {
 
     // These are all optional, defaults are shown:
     dir: {
-      input: ".",
+      input: "./",
       includes: "_includes",
       data: "_data",
       // Warning hardcoded throughout repo. Find and replace is your friend :)
-      output: "docs",
+      output: "./docs",
     },
   };
 };
