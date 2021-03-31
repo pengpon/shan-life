@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>生活分享</title>
+	<subtitle>隨手記.</subtitle>
+	
+	<link href="https://github.com/feed/feed.xml" rel="self"/>
+	<link href="https://github.com/pengpon/shan-life"/>
+	<updated>2021-04-01T08:00:00+08:00</updated>
+	<id>https://github.com/pengpon/shan-life</id>
+	<author>
+		<name>Shan peng.</name>
+		<email></email>
+	</author>
+	
+	<entry>
+		<title>This is my second post.</title>
+		<link href="https://github.com/posts/secondpost/"/>
+		<updated>2018-07-04T08:00:00+08:00</updated>
+		<id>https://github.com/posts/secondpost/</id>
+		<content type="html">
+		  &lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
+&lt;h2 id=&quot;section-header&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;#section-header&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/posts/firstpost/&quot;&gt;First post&lt;/a&gt;&lt;br&gt;
+&lt;a href=&quot;https://github.com/posts/thirdpost/&quot;&gt;Third post&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
+&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
+&lt;h1 id=&quot;test-svg&quot;&gt;Test SVG &lt;a class=&quot;direct-link&quot; href=&quot;#test-svg&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/img/share.svg&quot; alt=&quot;Test Share SVG&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;test-relative-local-image&quot;&gt;Test Relative Local Image &lt;a class=&quot;direct-link&quot; href=&quot;#test-relative-local-image&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/img/doener.jpg&quot; alt=&quot;Test Share SVG&quot;&gt;&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
+		<title>This is my third post.</title>
+		<link href="https://github.com/posts/thirdpost/"/>
+		<updated>2018-08-24T08:00:00+08:00</updated>
+		<id>https://github.com/posts/thirdpost/</id>
+		<content type="html">
+		  &lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
+&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// this is a command&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;myCommand&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;ins class=&quot;highlight-line highlight-line-add&quot;&gt;	&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; counter &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/ins&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;del class=&quot;highlight-line highlight-line-remove&quot;&gt;	counter&lt;span class=&quot;token operator&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/del&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// Test with a line break above this line.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&#39;Test&#39;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
+&lt;h2 id=&quot;section-header&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;#section-header&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
+		<title>測試篇.</title>
+		<link href="https://github.com/posts/firstpost/"/>
+		<updated>2021-04-01T08:00:00+08:00</updated>
+		<id>https://github.com/posts/firstpost/</id>
+		<content type="html">
+		  &lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
+&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jpg&quot; alt=&quot;An image&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;section-header&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;#section-header&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
+&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&lt;span class=&quot;highlight-line&quot;&gt;// this is a command&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;function myCommand() {&lt;/span&gt;&lt;br&gt;&lt;mark class=&quot;highlight-line highlight-line-active&quot;&gt;	let counter = 0;&lt;/mark&gt;&lt;br&gt;&lt;mark class=&quot;highlight-line highlight-line-active&quot;&gt;	counter++;&lt;/mark&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;}&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;// Test with a line break above this line.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;console.log(&#39;Test&#39;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
+		<title>圖片載入.</title>
+		<link href="https://github.com/posts/fourthpost/"/>
+		<updated>2021-04-01T08:00:00+08:00</updated>
+		<id>https://github.com/posts/fourthpost/</id>
+		<content type="html">
+		  &lt;p&gt;告全光過必究人量人的我過光的夜來在一進準進然然物朋們球學主。界語這再日的運：只熱因育話，不知時中線歡機答。體健就保蘭成寫，把乎給。此那足好了四靜臺女得。&lt;/p&gt;
+&lt;p&gt;果無體聽童去生說都注推取保類……國聞我大全、我很裡部生急才持為雖經吸回達想，資二古濟痛大往息經；在生花育，元水聲生的必隨的有望象臺接統知。似在片性展統商八是日車和，種是器後親：們場文先局出兩在際、達片可教，精北始事以理！自中和理。大的年。&lt;/p&gt;
+&lt;p&gt;算的生民爾用自亮的學性遊導灣官在龍身最花至己優東園十朋邊會安積已營服西經辦爭學，向如政過現！細活助美股市心資……影座先：岸黨統毒上龍。同物有續為。不製都外員不身半現解不車之。流分日戰見她出衣麼聲戰整走樂我開！的地圖寫法因他放全聽個應而？&lt;/p&gt;
+&lt;p&gt;方指比的立提我何心方可神王見行時更此以地洲態不廣國進，製不則這益把公作清會遊物。分比自話方師我組港上高該……院各深物病之刻好兩法果參大者則，師內唱明正不收。可一在水臺，力及做入去藝裡議得石至，關空河心。病臺進，對寫施要那新心的度分的老如士我公？&lt;/p&gt;
+&lt;p&gt;見大家林子我起；美會病、不孩人備必長到那可臺數中放義高態目進，再先著全像英己樣色甚教有選出展運……展白一國媽可和可、企種他因是黨血位今何多因門法……看念有人解毒王；約星發開子相。能真樣條了傷流務英帶也連界朋象來城成作又四便道是從天極車越刻界想自起人，只汽受。信弟學縣在面自們背我麗面請星你何少我們傳外。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://imgur.com/zimGvYS.jpg&quot; alt=&quot;sky&quot;&gt;&lt;/p&gt;
+&lt;p&gt;告全光過必究人量人的我過光的夜來在一進準進然然物朋們球學主。界語這再日的運：只熱因育話，不知時中線歡機答。體健就保蘭成寫，把乎給。此那足好了四靜臺女得。&lt;/p&gt;
+&lt;p&gt;果無體聽童去生說都注推取保類……國聞我大全、我很裡部生急才持為雖經吸回達想，資二古濟痛大往息經；在生花育，元水聲生的必隨的有望象臺接統知。似在片性展統商八是日車和，種是器後親：們場文先局出兩在際、達片可教，精北始事以理！自中和理。大的年。&lt;/p&gt;
+&lt;p&gt;算的生民爾用自亮的學性遊導灣官在龍身最花至己優東園十朋邊會安積已營服西經辦爭學，向如政過現！細活助美股市心資……影座先：岸黨統毒上龍。同物有續為。不製都外員不身半現解不車之。流分日戰見她出衣麼聲戰整走樂我開！的地圖寫法因他放全聽個應而？&lt;/p&gt;
+&lt;p&gt;方指比的立提我何心方可神王見行時更此以地洲態不廣國進，製不則這益把公作清會遊物。分比自話方師我組港上高該……院各深物病之刻好兩法果參大者則，師內唱明正不收。可一在水臺，力及做入去藝裡議得石至，關空河心。病臺進，對寫施要那新心的度分的老如士我公？&lt;/p&gt;
+&lt;p&gt;見大家林子我起；美會病、不孩人備必長到那可臺數中放義高態目進，再先著全像英己樣色甚教有選出展運……展白一國媽可和可、企種他因是黨血位今何多因門法……看念有人解毒王；約星發開子相。能真樣條了傷流務英帶也連界朋象來城成作又四便道是從天極車越刻界想自起人，只汽受。信弟學縣在面自們背我麗面請星你何少我們傳外。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://imgur.com/zimGvYS.jpg&quot; alt=&quot;sky&quot;&gt;&lt;br&gt;
+告全光過必究人量人的我過光的夜來在一進準進然然物朋們球學主。界語這再日的運：只熱因育話，不知時中線歡機答。體健就保蘭成寫，把乎給。此那足好了四靜臺女得。&lt;/p&gt;
+&lt;p&gt;果無體聽童去生說都注推取保類……國聞我大全、我很裡部生急才持為雖經吸回達想，資二古濟痛大往息經；在生花育，元水聲生的必隨的有望象臺接統知。似在片性展統商八是日車和，種是器後親：們場文先局出兩在際、達片可教，精北始事以理！自中和理。大的年。&lt;/p&gt;
+&lt;p&gt;算的生民爾用自亮的學性遊導灣官在龍身最花至己優東園十朋邊會安積已營服西經辦爭學，向如政過現！細活助美股市心資……影座先：岸黨統毒上龍。同物有續為。不製都外員不身半現解不車之。流分日戰見她出衣麼聲戰整走樂我開！的地圖寫法因他放全聽個應而？&lt;/p&gt;
+&lt;p&gt;方指比的立提我何心方可神王見行時更此以地洲態不廣國進，製不則這益把公作清會遊物。分比自話方師我組港上高該……院各深物病之刻好兩法果參大者則，師內唱明正不收。可一在水臺，力及做入去藝裡議得石至，關空河心。病臺進，對寫施要那新心的度分的老如士我公？&lt;/p&gt;
+&lt;p&gt;見大家林子我起；美會病、不孩人備必長到那可臺數中放義高態目進，再先著全像英己樣色甚教有選出展運……展白一國媽可和可、企種他因是黨血位今何多因門法……看念有人解毒王；約星發開子相。能真樣條了傷流務英帶也連界朋象來城成作又四便道是從天極車越刻界想自起人，只汽受。信弟學縣在面自們背我麗面請星你何少我們傳外。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://imgur.com/zimGvYS.jpg&quot; alt=&quot;sky&quot;&gt;&lt;/p&gt;
+&lt;p&gt;告全光過必究人量人的我過光的夜來在一進準進然然物朋們球學主。界語這再日的運：只熱因育話，不知時中線歡機答。體健就保蘭成寫，把乎給。此那足好了四靜臺女得。&lt;/p&gt;
+&lt;p&gt;果無體聽童去生說都注推取保類……國聞我大全、我很裡部生急才持為雖經吸回達想，資二古濟痛大往息經；在生花育，元水聲生的必隨的有望象臺接統知。似在片性展統商八是日車和，種是器後親：們場文先局出兩在際、達片可教，精北始事以理！自中和理。大的年。&lt;/p&gt;
+&lt;p&gt;算的生民爾用自亮的學性遊導灣官在龍身最花至己優東園十朋邊會安積已營服西經辦爭學，向如政過現！細活助美股市心資……影座先：岸黨統毒上龍。同物有續為。不製都外員不身半現解不車之。流分日戰見她出衣麼聲戰整走樂我開！的地圖寫法因他放全聽個應而？&lt;/p&gt;
+&lt;p&gt;方指比的立提我何心方可神王見行時更此以地洲態不廣國進，製不則這益把公作清會遊物。分比自話方師我組港上高該……院各深物病之刻好兩法果參大者則，師內唱明正不收。可一在水臺，力及做入去藝裡議得石至，關空河心。病臺進，對寫施要那新心的度分的老如士我公？&lt;/p&gt;
+&lt;p&gt;見大家林子我起；美會病、不孩人備必長到那可臺數中放義高態目進，再先著全像英己樣色甚教有選出展運……展白一國媽可和可、企種他因是黨血位今何多因門法……看念有人解毒王；約星發開子相。能真樣條了傷流務英帶也連界朋象來城成作又四便道是從天極車越刻界想自起人，只汽受。信弟學縣在面自們背我麗面請星你何少我們傳外。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://imgur.com/zimGvYS.jpg&quot; alt=&quot;sky&quot;&gt;&lt;/p&gt;
+&lt;p&gt;告全光過必究人量人的我過光的夜來在一進準進然然物朋們球學主。界語這再日的運：只熱因育話，不知時中線歡機答。體健就保蘭成寫，把乎給。此那足好了四靜臺女得。&lt;/p&gt;
+&lt;p&gt;果無體聽童去生說都注推取保類……國聞我大全、我很裡部生急才持為雖經吸回達想，資二古濟痛大往息經；在生花育，元水聲生的必隨的有望象臺接統知。似在片性展統商八是日車和，種是器後親：們場文先局出兩在際、達片可教，精北始事以理！自中和理。大的年。&lt;/p&gt;
+&lt;p&gt;算的生民爾用自亮的學性遊導灣官在龍身最花至己優東園十朋邊會安積已營服西經辦爭學，向如政過現！細活助美股市心資……影座先：岸黨統毒上龍。同物有續為。不製都外員不身半現解不車之。流分日戰見她出衣麼聲戰整走樂我開！的地圖寫法因他放全聽個應而？&lt;/p&gt;
+&lt;p&gt;方指比的立提我何心方可神王見行時更此以地洲態不廣國進，製不則這益把公作清會遊物。分比自話方師我組港上高該……院各深物病之刻好兩法果參大者則，師內唱明正不收。可一在水臺，力及做入去藝裡議得石至，關空河心。病臺進，對寫施要那新心的度分的老如士我公？&lt;/p&gt;
+&lt;p&gt;見大家林子我起；美會病、不孩人備必長到那可臺數中放義高態目進，再先著全像英己樣色甚教有選出展運……展白一國媽可和可、企種他因是黨血位今何多因門法……看念有人解毒王；約星發開子相。能真樣條了傷流務英帶也連界朋象來城成作又四便道是從天極車越刻界想自起人，只汽受。信弟學縣在面自們背我麗面請星你何少我們傳外。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://imgur.com/zimGvYS.jpg&quot; alt=&quot;sky&quot;&gt;&lt;/p&gt;
+&lt;p&gt;告全光過必究人量人的我過光的夜來在一進準進然然物朋們球學主。界語這再日的運：只熱因育話，不知時中線歡機答。體健就保蘭成寫，把乎給。此那足好了四靜臺女得。&lt;/p&gt;
+&lt;p&gt;果無體聽童去生說都注推取保類……國聞我大全、我很裡部生急才持為雖經吸回達想，資二古濟痛大往息經；在生花育，元水聲生的必隨的有望象臺接統知。似在片性展統商八是日車和，種是器後親：們場文先局出兩在際、達片可教，精北始事以理！自中和理。大的年。&lt;/p&gt;
+&lt;p&gt;算的生民爾用自亮的學性遊導灣官在龍身最花至己優東園十朋邊會安積已營服西經辦爭學，向如政過現！細活助美股市心資……影座先：岸黨統毒上龍。同物有續為。不製都外員不身半現解不車之。流分日戰見她出衣麼聲戰整走樂我開！的地圖寫法因他放全聽個應而？&lt;/p&gt;
+&lt;p&gt;方指比的立提我何心方可神王見行時更此以地洲態不廣國進，製不則這益把公作清會遊物。分比自話方師我組港上高該……院各深物病之刻好兩法果參大者則，師內唱明正不收。可一在水臺，力及做入去藝裡議得石至，關空河心。病臺進，對寫施要那新心的度分的老如士我公？&lt;/p&gt;
+&lt;p&gt;見大家林子我起；美會病、不孩人備必長到那可臺數中放義高態目進，再先著全像英己樣色甚教有選出展運……展白一國媽可和可、企種他因是黨血位今何多因門法……看念有人解毒王；約星發開子相。能真樣條了傷流務英帶也連界朋象來城成作又四便道是從天極車越刻界想自起人，只汽受。信弟學縣在面自們背我麗面請星你何少我們傳外。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://picsum.photos/700&quot; alt=&quot;sky&quot;&gt;&lt;br&gt;
+&lt;img src=&quot;https://picsum.photos/900&quot; alt=&quot;sky&quot;&gt;&lt;br&gt;
+&lt;img src=&quot;https://picsum.photos/700&quot; alt=&quot;sky&quot;&gt;&lt;br&gt;
+&lt;img src=&quot;https://picsum.photos/800&quot; alt=&quot;sky&quot;&gt;&lt;br&gt;
+&lt;img src=&quot;https://picsum.photos/600&quot; alt=&quot;sky&quot;&gt;&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+</feed>
